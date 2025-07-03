@@ -1,6 +1,7 @@
 {
   "functions": {
     "api/score.js": {
+      "runtime": "python3.9",
       "includeFiles": [
         "eval_saved.py",
         "new_saved_resnet50.pt"
