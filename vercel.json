@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/score.js": {
+      "includeFiles": [
+        "eval_saved.py",
+        "new_saved_resnet50.pt"
+      ]
+    }
+  }
+}
