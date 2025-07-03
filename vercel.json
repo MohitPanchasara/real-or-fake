@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/score.js": {
+    "pages/api/score.js": {
       "runtime": "python3.9",
       "includeFiles": [
         "eval_saved.py",
